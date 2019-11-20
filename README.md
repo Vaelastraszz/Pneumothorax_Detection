@@ -1,5 +1,5 @@
 # Pneumothorax_Detection
-Kaggle competition : Creation of a model able to create mask on mediacl radio for pneumothorax detection
+Kaggle competition : Creation of a model able to create mask on medical photos for pneumothorax detection
 
 Dans ce répertoire on pourra trouver :
 - Création d'un programme de chargement des images et des masques 
